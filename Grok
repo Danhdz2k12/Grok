@@ -905,7 +905,3 @@ spawn(function()
         end
     end
 end);
-
-v14:Notify({
-    Title = "Danh Hai Dep Trai",
-    Content = "Tải Xong - Auto Farm",
